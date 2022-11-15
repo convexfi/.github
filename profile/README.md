@@ -1,4 +1,3 @@
-## Welcome to the Convex Optimization in Finance Group GitHub web
+## Welcome!
 
-TBD
-
+This is the official GitHub repository page for our convex research group at the Hong Kong University of Science and Technology (HKUST).
