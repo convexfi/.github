@@ -1,3 +1,3 @@
 ## Welcome!
 
-This is the official GitHub repository page for our convex research group at the Hong Kong University of Science and Technology (HKUST).
+Official GitHub organization the convex research group at the Hong Kong University of Science and Technology (HKUST).
