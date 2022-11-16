@@ -12,3 +12,4 @@ Here you'll find repositories that host practical implementations of the researc
 * [bipartite](https://github.com/convexfi/bipartite): Learning Bipartite Graphs: Heavy Tails and Multiple Components (NeurIPS 2022)
 
 ### Portfolio Optimization
+* [riskparity.py](https://github.com/convexfi/riskparity.py): SCRIP: Successive Convex Optimization Methods for Risk Parity Portfolio Design (IEEE TSP 2015)
