@@ -13,3 +13,4 @@ Here you'll find repositories that host practical implementations of the researc
 
 ### Portfolio Optimization
 * [riskparity.py](https://github.com/convexfi/riskparity.py): SCRIP: Successive Convex Optimization Methods for Risk Parity Portfolio Design (IEEE TSP 2015)
+* [highOrderPortfolios](https://github.com/dppalomar/highOrderPortfolios): Design of High-Order Portfolios via Mean, Variance, Skewness, and Kurtosis ([CRAN](https://cran.r-project.org/package=highOrderPortfolios))
