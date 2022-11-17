@@ -5,7 +5,7 @@ Official GitHub organization the convex research group at the Hong Kong Universi
 Here you'll find repositories that host practical implementations of the research published by the [Convex Group](https://www.danielppalomar.com/group/).
 
 
-### Graph Learning
+### Graph Learning in Finance and Other Applications
 * [spectralGraphTopology](https://github.com/convexfi/spectralGraphTopology): Structured graph learning via Laplacian spectral constraints (NeurIPS 2019) [[CRAN](https://cran.r-project.org/package=spectralGraphTopology)]
 * [sparseGraph](https://github.com/convexfi/sparseGraph): Nonconvex Sparse Graph Learning under Laplacian-structured Graphical Model (NeurIPS 2020)
 * [fingraph](https://github.com/convexfi/fingraph): Graphical Models in Heavy-Tailed Markets (NeurIPS 2021)
