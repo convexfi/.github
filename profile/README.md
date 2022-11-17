@@ -4,12 +4,13 @@ Official GitHub organization the convex research group at the Hong Kong Universi
 
 Here you'll find repositories that host practical implementations of the research published by the Convex Group.
 
-### Graph Learning
 
+### Graph Learning
 * [spectralGraphTopology](https://github.com/convexfi/spectralGraphTopology): Structured graph learning via Laplacian spectral constraints (NeurIPS 2019)
 * [sparseGraph](https://github.com/convexfi/sparseGraph): Nonconvex Sparse Graph Learning under Laplacian-structured Graphical Model (NeurIPS 2020)
 * [fingraph](https://github.com/convexfi/fingraph): Graphical Models in Heavy-Tailed Markets (NeurIPS 2021)
 * [bipartite](https://github.com/convexfi/bipartite): Learning Bipartite Graphs: Heavy Tails and Multiple Components (NeurIPS 2022)
+
 
 ### Portfolio Optimization
 * [riskParityPortfolio](https://github.com/dppalomar/riskParityPortfolio): Design of Risk Parity Portfolios ([CRAN](https://cran.r-project.org/package=riskParityPortfolio))
@@ -18,5 +19,9 @@ Here you'll find repositories that host practical implementations of the researc
 * [portfolioBacktest](https://github.com/dppalomar/portfolioBacktest): Automated Backtesting of Portfolios over Multiple Datasets ([CRAN](https://cran.r-project.org/package=portfolioBacktest))
 * [sparseIndexTracking](https://github.com/dppalomar/sparseIndexTracking): Design of Portfolio of Stocks to Track an Index ([CRAN](https://cran.r-project.org/package=sparseIndexTracking))
 
+
 ### Financial Data Modeling
-TBD
+
+* [fitHeavyTail](https://github.com/dppalomar/fitHeavyTail): Mean and Covariance Matrix Estimation under Heavy Tails ([CRAN](https://cran.r-project.org/package=fitHeavyTail))
+* [imputeFin](https://github.com/dppalomar/imputeFin): Imputation of Financial Time Series with Missing Values ([CRAN](https://cran.r-project.org/package=imputeFin))
+* [sparseEigen](https://github.com/dppalomar/sparseEigen): Computation of Sparse Eigenvectors of a Matrix ([CRAN](https://cran.r-project.org/package=sparseEigen))
