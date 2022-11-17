@@ -6,7 +6,7 @@ Here you'll find repositories that host practical implementations of the researc
 
 
 ### Graph Learning
-* [spectralGraphTopology](https://github.com/convexfi/spectralGraphTopology): Structured graph learning via Laplacian spectral constraints (NeurIPS 2019)
+* [spectralGraphTopology](https://github.com/convexfi/spectralGraphTopology): Structured graph learning via Laplacian spectral constraints (NeurIPS 2019) [[CRAN](https://cran.r-project.org/package=spectralGraphTopology)]
 * [sparseGraph](https://github.com/convexfi/sparseGraph): Nonconvex Sparse Graph Learning under Laplacian-structured Graphical Model (NeurIPS 2020)
 * [fingraph](https://github.com/convexfi/fingraph): Graphical Models in Heavy-Tailed Markets (NeurIPS 2021)
 * [bipartite](https://github.com/convexfi/bipartite): Learning Bipartite Graphs: Heavy Tails and Multiple Components (NeurIPS 2022)
