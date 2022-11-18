@@ -17,7 +17,7 @@ Video presentations are available on Youtube: https://www.youtube.com/danielpalo
 * [riskParityPortfolio](https://github.com/dppalomar/riskParityPortfolio): Design of Risk Parity Portfolios [[CRAN](https://cran.r-project.org/package=riskParityPortfolio)]
 * [riskparity.py](https://github.com/convexfi/riskparity.py): SCRIP: Successive Convex Optimization Methods for Risk Parity Portfolio Design (IEEE TSP 2015)
 * [highOrderPortfolios](https://github.com/dppalomar/highOrderPortfolios): Design of High-Order Portfolios via Mean, Variance, Skewness, and Kurtosis [[CRAN](https://cran.r-project.org/package=highOrderPortfolios)]
-* [portfolioBacktest](https://github.com/dppalomar/portfolioBacktest): Automated Backtesting of Portfolios over Multiple Datasets [[CRAN](https://cran.r-project.org/package=portfolioBacktest)\
+* [portfolioBacktest](https://github.com/dppalomar/portfolioBacktest): Automated Backtesting of Portfolios over Multiple Datasets [[CRAN](https://cran.r-project.org/package=portfolioBacktest)]
 * [sparseIndexTracking](https://github.com/dppalomar/sparseIndexTracking): Design of Portfolio of Stocks to Track an Index [[CRAN](https://cran.r-project.org/package=sparseIndexTracking)]
 
 
