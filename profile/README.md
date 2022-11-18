@@ -3,6 +3,7 @@
 Official GitHub organization the convex research group at the Hong Kong University of Science and Technology (HKUST).
 
 Here you'll find repositories that host practical implementations of the research published by the [Convex Group](https://www.danielppalomar.com/group/).
+Some videos are posted on the YouTube channel https://www.youtube.com/danielpalomar.
 
 
 ### Graph Learning in Finance and Other Applications
