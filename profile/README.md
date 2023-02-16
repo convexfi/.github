@@ -31,5 +31,4 @@ Video presentations are available on Youtube: https://www.youtube.com/danielpalo
 ### Fast Variable/Feature Selection in Large-Scale High-Dimensional Settings
 
 * [TRexSelector](https://github.com/jasinmachkour/TRexSelector): Performs fast variable selection in high-dimensional settings while controlling the false discovery rate (FDR) at a user-defined target level [[CRAN](https://cran.r-project.org/package=TRexSelector)]
-
 * [tlars](https://github.com/jasinmachkour/tlars): Computes the solution path of the Terminating-LARS (T-LARS) algorithm [[CRAN](https://cran.r-project.org/package=tlars)]
