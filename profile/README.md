@@ -26,3 +26,10 @@ Video presentations are available on Youtube: https://www.youtube.com/danielpalo
 * [fitHeavyTail](https://github.com/dppalomar/fitHeavyTail): Mean and Covariance Matrix Estimation under Heavy Tails [[CRAN](https://cran.r-project.org/package=fitHeavyTail)]
 * [imputeFin](https://github.com/dppalomar/imputeFin): Imputation of Financial Time Series with Missing Values [[CRAN](https://cran.r-project.org/package=imputeFin)]
 * [sparseEigen](https://github.com/dppalomar/sparseEigen): Computation of Sparse Eigenvectors of a Matrix [[CRAN](https://cran.r-project.org/package=sparseEigen)]
+
+
+### Fast Variable/Feature Selection in Large-Scale High-Dimensional Settings
+
+* [TRexSelector](https://github.com/jasinmachkour/TRexSelector): Mean and Covariance Matrix Estimation under Heavy Tails [[CRAN](https://cran.r-project.org/package=TRexSelector)]
+
+* [tlars](https://github.com/jasinmachkour/tlars): Mean and Covariance Matrix Estimation under Heavy Tails [[CRAN](https://cran.r-project.org/package=tlars)]
