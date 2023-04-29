@@ -23,7 +23,7 @@ Video presentations are available on YouTube: https://www.youtube.com/danielpalo
 
 ### Financial Data Modeling
 
-* [fitHeavyTail](https://github.com/dppalomar/fitHeavyTail): Mean and Covariance Matrix Estimation under Heavy Tails [[CRAN](https://cran.r-project.org/package=fitHeavyTail)]
+* [fitHeavyTail](https://github.com/convexfi/fitHeavyTail): Mean and Covariance Matrix Estimation under Heavy Tails [[CRAN](https://cran.r-project.org/package=fitHeavyTail)]
 * [imputeFin](https://github.com/dppalomar/imputeFin): Imputation of Financial Time Series with Missing Values [[CRAN](https://cran.r-project.org/package=imputeFin)]
 * [sparseEigen](https://github.com/dppalomar/sparseEigen): Computation of Sparse Eigenvectors of a Matrix [[CRAN](https://cran.r-project.org/package=sparseEigen)]
 
