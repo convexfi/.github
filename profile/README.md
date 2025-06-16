@@ -5,6 +5,7 @@ Official GitHub organization for the convex research group at the Hong Kong Univ
 Here you'll find repositories that host practical implementations of the research published by the [Convex Group](https://www.danielppalomar.com/group/).
 Video presentations are available on YouTube: https://www.youtube.com/danielpalomar.
 
+👉 [Portfolio Optimization](https://portfoliooptimizationbook.com/) book available online.
 
 ### Graph Learning in Finance and Other Applications
 * [spectralGraphTopology](https://github.com/convexfi/spectralGraphTopology): Structured graph learning via Laplacian spectral constraints (NeurIPS 2019) [[CRAN](https://cran.r-project.org/package=spectralGraphTopology)]
